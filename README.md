@@ -28,10 +28,6 @@ The dataset contains details about:
 - **Age & Gender**: Adults are the largest customer group, with women dominating across all age categories.  
 - **Sales Channels**: Amazon (35%), Flipkart (22%), and Myntra (23%) are the top contributors, while Meesho, Ajio, and others contribute smaller shares.  
 
-## 📷 Dashboard Preview  
-Here’s the snapshot of the dashboard:  
-
-![Vrinda Store Dashboard] 
 
 ## 🚀 How to Use  
 1. Clone or download this repository  
